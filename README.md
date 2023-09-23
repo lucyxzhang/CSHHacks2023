@@ -12,3 +12,6 @@ Playing the game will also give them points
 The game could include true or false to educate them on historical environmental cisises
 Potentially have local aspects such as places that accept clothing donations and volunteer service work for things like tree planting.
 OVERALL, story based game that takes the player through a story or list of scenarios that helps them understand the importance of being environmentally friendly.
+Leaderboard with your friends 
+Tasks to reduce carbon footprint
+
